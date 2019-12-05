@@ -1,0 +1,14 @@
+create_boating_dock 6
+dock KA-01-HH-1234 White
+dock KA-01-HH-1232 Blue
+dock KA-03-HH-1234 White
+dock KA-01-HH-1234 Black
+dock KA-01-HH-1234 White
+dock KA-01-HH-1234 White
+leave 4
+status
+dock KA-01-HH-1234 White
+dock KA-01-HH-1234 White
+registration_numbers_for_boats_with_colour White
+slot_numbers_for_boats_with_colour White
+slot_number_for_registration_number KA-01-HH-1234

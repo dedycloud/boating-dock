@@ -1,0 +1,2 @@
+create_boating_dock 6
+dock KA-01-HH-1234 White
